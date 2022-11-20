@@ -1,0 +1,96 @@
+#parent {
+  margin-left: 100rem;
+  margin-top: 0.25rem;
+  position: relative;
+}
+
+.box {
+  background-color: rgb(153, 145, 145);
+  width: 300px;
+  height: 650px;
+  border: 2px solid black;
+}
+.first {
+  top: 100px;
+  background-color: white;
+  width: 300px;
+  height: 70px;
+  position: absolute;
+}
+.second {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  top: 300px;
+  background-color: white;
+  width: 300px;
+  height: 150px;
+  position: absolute;
+}
+
+.third {
+  top: 500px;
+  background-color: rgb(153, 145, 145);
+  width: 300px;
+  height: 150px;
+  position: absolute;
+}
+
+.ethenaimg {
+  padding-top: 4px;
+  padding-left: 100px;
+  width: 90px;
+  height: auto;
+}
+
+.textone {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.seventeen {
+  color: red;
+}
+.bad {
+  text-align: center;
+  font-size: 23px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.emoji {
+  font-size: 40px;
+}
+.why {
+  color: orange;
+  size: 50px;
+  margin-bottom: 5px;
+}
+.bullet {
+  margin-top: 0px;
+  padding-bottom: 5px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding-top: 5px;
+}
+.options {
+  text-align: center;
+  margin-top: 1px;
+  padding-bottom: 20px;
+}
+.under {
+  text-decoration: underline;
+}
+.ethone {
+  padding-bottom: ;
+  padding-left: 13rem;
+  margin-top: 1px;
+}
+.eighty {
+  color: rgb(101, 233, 101);
+}
+.info {
+  text-align: center;
+}
+.numi {
+  padding-bottom: 50px;
+  margin-top: 5px;
+  width: 70px;
+  height: auto;
+}
